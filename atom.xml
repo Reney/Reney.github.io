@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[随想随记]]></title>
+  <subtitle><![CDATA[千江有水千江月，万里无云万里天]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://Reney.github.io/"/>
+  <updated>2014-09-28T14:38:24.598Z</updated>
+  <id>http://Reney.github.io/</id>
+  
+  <author>
+    <name><![CDATA[Reney]]></name>
+    <email><![CDATA[reney.think@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新店开张]]></title>
+    <link href="http://Reney.github.io/2014/09/28/2014-9-28-my-first-post/"/>
+    <id>http://Reney.github.io/2014/09/28/2014-9-28-my-first-post/</id>
+    <published>2014-09-27T16:00:00.000Z</published>
+    <updated>2014-09-28T14:23:31.000Z</updated>
+    <content type="html"><![CDATA[<p>Markdown的独孤九剑</p>
+<h2 id="标题">标题</h2>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="preprocessor">## 标题</span></div></pre></td></tr></table></figure>
+
+<h2 id="列表">列表</h2>
+<ul>
+<li>文本1</li>
+<li>文本2</li>
+</ul>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">-<span class="ruby"> 文本<span class="number">1</span></span></div><div class="line">-<span class="ruby"> 文本<span class="number">2</span></span></div><div class="line"></div><div class="line">1. 文本1</div><div class="line">2. 文本2</div></pre></td></tr></table></figure>
+
+<h2 id="链接">链接</h2>
+<p><a href="http://www.github.com" target="_blank" rel="external">github.com</a></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[<span class="link_label">显示文本</span>](<span class="link_url">链接地址</span>)</div></pre></td></tr></table></figure>
+
+<h2 id="图片">图片</h2>
+<p><img src="http://image.baidu.com/i?tn=download&amp;word=download&amp;ie=utf8&amp;fr=detail&amp;url=http%3A%2F%2Fstatic.guanying.com%2Fimg%2Fdoub_extpic%2Fimg1.douban.com%2Fview%2Fphoto%2Fphoto%2Fpublic%2Fp825%2F411510_640x960.jpg" alt=""></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="change">![](图片链接地址)</span></div></pre></td></tr></table></figure>
+
+<h2 id="引用">引用</h2>
+<p>诗词的引用</p>
+<blockquote>
+<p>千江有水千江月</p>
+<p>万里无云万里天</p>
+</blockquote>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="blockquote">&gt; 千江有水千江月</span></div></pre></td></tr></table></figure>
+
+<h2 id="粗体和斜体">粗体和斜体</h2>
+<p><strong>第一篇博客文章</strong></p>
+<p><em>Markdown的用法</em></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">*</span><span class="keyword">*</span>第一篇博客文章<span class="keyword">*</span><span class="keyword">*</span></div><div class="line"><span class="keyword">*</span>Markdown的用法<span class="keyword">*</span></div></pre></td></tr></table></figure>
+
+<h2 id="表格">表格</h2>
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Are</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+<tr>
+<td>zebra stripes</td>
+<td style="text-align:center">are neat</td>
+<td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<table>
+<thead>
+<tr>
+<th>a</th>
+<th style="text-align:right">b</th>
+<th style="text-align:center">c</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td style="text-align:right">2</td>
+<td style="text-align:center">3</td>
+</tr>
+<tr>
+<td>0000000</td>
+<td style="text-align:right">222222</td>
+<td style="text-align:center">333333</td>
+</tr>
+</tbody>
+</table>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">| a      | b     | c     |</div><div class="line">|--------|------<span class="symbol">:|</span><span class="symbol">:-----</span><span class="symbol">:|</span></div><div class="line">| <span class="number">1</span>      | <span class="number">2</span>     | <span class="number">3</span>     |</div><div class="line">| <span class="number">0000000</span>| <span class="number">222222</span>| <span class="number">333333</span>|</div></pre></td></tr></table></figure>
+
+]]></content>
+    <summary type="html">
+    <![CDATA[初学Markdown，写博客的第一步]]>
+    
+    </summary>
+    
+      <category term="第一次" scheme="http://Reney.github.io/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+    
+      <category term="慢生活" scheme="http://Reney.github.io/categories/%E6%85%A2%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
