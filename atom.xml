@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[随想随记]]></title>
+  <title><![CDATA[人即江湖]]></title>
   <subtitle><![CDATA[千江有水千江月，万里无云万里天]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://Reney.github.io/"/>
-  <updated>2014-09-29T01:37:36.575Z</updated>
+  <updated>2014-09-29T04:17:50.024Z</updated>
   <id>http://Reney.github.io/</id>
   
   <author>
