@@ -4,7 +4,7 @@
   <subtitle><![CDATA[千江有水千江月，万里无云万里天]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://Reney.github.io/"/>
-  <updated>2014-10-02T01:49:07.160Z</updated>
+  <updated>2014-10-04T04:45:02.142Z</updated>
   <id>http://Reney.github.io/</id>
   
   <author>
@@ -13,6 +13,160 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[兵器演变随想(todo)]]></title>
+    <link href="http://Reney.github.io/2014/10/02/2014-10-2-evolution-of-weapon/"/>
+    <id>http://Reney.github.io/2014/10/02/2014-10-2-evolution-of-weapon/</id>
+    <published>2014-10-01T16:00:00.000Z</published>
+    <updated>2014-10-04T04:44:13.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="演化">演化</h2>
+<h3 id="过去">过去</h3>
+<p>刀 VS 弓</p>
+<hr>
+<p>Symbian vs Window Mobile</p>
+<h4 id="微软骨子里是激进的开拓者，现实使他保守">微软骨子里是激进的开拓者，现实使他保守</h4>
+<p><a href="http://tech.sina.com.cn/focus/TabletPC/" target="_blank" rel="external">Tablet PC</a>:微软1999年发起并于2002年发布<strong>平板电脑</strong></p>
+<p><a href="http://tech.163.com/tm/040109/040109_123412.html" target="_blank" rel="external">Smart Watch</a>:盖茨于2002年亲自发起SPOT项目，并于2004年发布<strong>智能手表</strong></p>
+<h3 id="现在">现在</h3>
+<p>AK47 VS 狙击枪</p>
+<hr>
+<p>iOS vs ?(Android or Windows Phone)</p>
+<h3 id="未来">未来</h3>
+<p>无人机？</p>
+<hr>
+<p>网络带宽撑起一朵朵云？</p>
+<h2 id="循环-变与不变">循环.变与不变</h2>
+<p>好用 &amp; 难用</p>
+<p>平民主义 &amp; 精英主义</p>
+<p>形态 &amp; 技术</p>
+<p>苹果 facebook &amp; 微软 google</p>
+<h2 id="延伸">延伸</h2>
+<p>对于程序猿</p>
+<blockquote>
+<p>技术水平 VS 人际交往</p>
+</blockquote>
+<p>对于公司</p>
+<blockquote>
+<p>技术导向 VS 服务导向</p>
+</blockquote>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">其实坚守任何一个方向都是错误的，螺旋式提高才是</div><div class="line">这个世界的 节奏</div><div class="line">没有永恒的真理，只有条件下的正确</div></pre></td></tr></table></figure>
+
+]]></content>
+    <summary type="html">
+    <![CDATA[通过兵器与电脑技术的演变进行类比，试图接触到新事物发展的脉搏。清楚当前的发展阶段，就有可能发现未来真正的方向，少些执迷不悟，多些对成功的偏执。]]>
+    
+    </summary>
+    
+      <category term="演化" scheme="http://Reney.github.io/tags/%E6%BC%94%E5%8C%96/"/>
+    
+      <category term="工具" scheme="http://Reney.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="太极拳" scheme="http://Reney.github.io/categories/%E5%A4%AA%E6%9E%81%E6%8B%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[创建个人博客（github,Hexo,jacman）]]></title>
+    <link href="http://Reney.github.io/2014/09/30/2014-9-30-construct-blog/"/>
+    <id>http://Reney.github.io/2014/09/30/2014-9-30-construct-blog/</id>
+    <published>2014-09-29T16:00:00.000Z</published>
+    <updated>2014-10-04T04:21:29.000Z</updated>
+    <content type="html"><![CDATA[<p>博客创建过程中的流程，所需的资源以及相互的依赖关系。筛出过程当中的关注点(Seperation of Concerns,SoC)，也为其他个人平台的搭建做参考，触类旁通。</p>
+<h2 id="务实">务实</h2>
+<h3 id="雏形">雏形</h3>
+<p>最小的可运行配置</p>
+<ol>
+<li>申请github账号，创建博客项目(github.io)－地盘</li>
+<li>本地安装Hexo，并配置关联信息（地址，名字等）－人马</li>
+<li>本地运行并调试网站内容，向github部署网站－操练</li>
+</ol>
+<h3 id="锦上添花">锦上添花</h3>
+<p>使用jacman进行优化的部分</p>
+<ol>
+<li>更换为jacman风格</li>
+<li>配置主导航栏（首页，归档，关于）</li>
+<li>在jacman中加入多说，豆瓣，邮件</li>
+<li>更换个人照片</li>
+<li>加入个人about页面</li>
+</ol>
+<p>jacman,评论等各种插件，共享，社交和图床？</p>
+<h2 id="务虚">务虚</h2>
+<h3 id="资源">资源</h3>
+<p>分为几大部分，各自的职能</p>
+<ol>
+<li>界面个性化－面子</li>
+<li>评论插件－互动</li>
+<li>个人社交关联－广告</li>
+<li>图床－较重的资源</li>
+</ol>
+<h3 id="流程">流程</h3>
+<h4 id="博客内容发布流程">博客内容发布流程</h4>
+<ol>
+<li><p>通过Markdown编辑器编辑博客内容</p>
+</li>
+<li><p>将md文件保存至hexo文件夹下的source－》_posts中</p>
+</li>
+<li><p>将md文件生成对应html文件</p>
+<blockquote>
+<p>hexo g</p>
+</blockquote>
+</li>
+<li>将html文件发布到github上<blockquote>
+<p>hexo d</p>
+</blockquote>
+</li>
+</ol>
+<h4 id="插件（类似多说）的使用流程">插件（类似多说）的使用流程</h4>
+<ol>
+<li><p>在duoshuo.com上注册用户－用户名</p>
+</li>
+<li><p>注册后，配置站点信息，建立博客与多说的关联－网址</p>
+</li>
+<li><p>在jacman配置文件中开启多说</p>
+</li>
+<li><p>配置文件中填写多说的用户名</p>
+</li>
+</ol>
+<p><em>事实上，相当于博客在调用多说函数用于显示和存储评论信息，函数参数就是用户名和博客网址。</em></p>
+<h3 id="依赖关系(todo)">依赖关系(todo)</h3>
+<p>系统之间的接口，连接细节</p>
+<ol>
+<li><p>网站的配置文件－什么名字，在哪等主框架信息，样式外包</p>
+</li>
+<li><p>样式插件的配置文件－分栏目，配图标，设互动，做个人广告</p>
+</li>
+</ol>
+<h2 id="总结(todo)">总结(todo)</h2>
+<p>容易出错的点，查看类似系统搭建的关键在哪</p>
+<p>接口间的匹配与识别（被外包的评论服务，总结与延伸）</p>
+<h2 id="延伸">延伸</h2>
+<p>类似的平台搭建过程，启发。。。</p>
+<p>对于创业者：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">行业</div><div class="line">公司</div><div class="line">制度与员工</div></pre></td></tr></table></figure>
+
+<p>对于打工者：</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">公司和部门</div><div class="line">个人职位</div><div class="line">技术积累和职业规划</div></pre></td></tr></table></figure>
+
+<p>其实就是三层关系：</p>
+<ul>
+<li>平台</li>
+<li>成果</li>
+<li>差异化与竞争优势</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[博客创建过程中的流程，所需的资源以及相互的依赖关系。筛出过程当中的关注点(Seperation of Concerns,SoC)，也为其他个人平台的搭建做参考，触类旁通。]]>
+    
+    </summary>
+    
+      <category term="第一次" scheme="http://Reney.github.io/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+    
+      <category term="网络平台" scheme="http://Reney.github.io/tags/%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0/"/>
+    
+      <category term="吸星大法" scheme="http://Reney.github.io/categories/%E5%90%B8%E6%98%9F%E5%A4%A7%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[新店开张，学习Markdown]]></title>
